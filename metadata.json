@@ -1,0 +1,5 @@
+{
+  "name": "Working of A2UI GenAI Chat",
+  "description": "An advanced generative UI chat interface that renders dynamic JSON schemas (A2UI) directly from Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
